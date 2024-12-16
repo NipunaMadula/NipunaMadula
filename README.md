@@ -54,12 +54,12 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=nipunamadula&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipunamadula&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunamadula&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
