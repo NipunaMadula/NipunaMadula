@@ -1,7 +1,7 @@
 # <div align="center">👋 Hello World, I'm Nipuna Madula!</div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=🚀+Flutter+Enthusiast+%26+Mobile+Developer+📱;Building+Beautiful+Cross-Platform+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2C974B&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=🚀+Flutter+Enthusiast+%26+Mobile+Developer+📱;Building+Beautiful+Cross-Platform+Apps" alt="Typing SVG" />
 </div>
 
 <div align="center">
