@@ -1,18 +1,18 @@
 # <div align="center">👋 Hello World, I'm Nipuna Madula!</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2C974B&center=true&vCenter=true&multiline=true&random=false&width=435&height=65&lines=Flutter+Enthusiast+%26+Mobile+Developer;Building+Beautiful+Cross-Platform+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2C974B&center=true&vCenter=true&multiline=true&random=false&width=500&height=70&lines=Flutter+Enthusiast+%26+Mobile+Developer;Building+Beautiful+Cross-Platform+Apps" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nipunamadula">
+  <a href="https://twitter.com/@nipuna_madula">
+    <img src="https://img.shields.io/twitter/follow/nipuna_madula?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter Follow"/>
+  </a>
+  <a href="https://linkedin.com/in/nipuna-madula">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:nipunamadula2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/@nipuna_madula">
-    <img src="https://img.shields.io/twitter/follow/nipuna_madula?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter Follow"/>
   </a>
 </div>
 
@@ -68,7 +68,7 @@
 I'm always interested in collaborating on interesting projects or discussing mobile development. Feel free to reach out!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nipunamadula">
+  <a href="https://linkedin.com/in/nipuna-madula">
     <img src="https://img.shields.io/badge/-Nipuna_Madula-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:nipunamadula2001@gmail.com">
