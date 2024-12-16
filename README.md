@@ -8,7 +8,7 @@
   <a href="https://twitter.com/@nipuna_madula">
     <img src="https://img.shields.io/twitter/follow/nipuna_madula?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter Follow"/>
   </a>
-  <a href="https://linkedin.com/in/nipuna-madula">
+  <a href="https://www.linkedin.com/in/nipunamadula">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:nipunamadula2001@gmail.com">
@@ -68,7 +68,7 @@
 I'm always interested in collaborating on interesting projects or discussing mobile development. Feel free to reach out!
 
 <div align="center">
-  <a href="https://linkedin.com/in/nipuna-madula">
+  <a href="https://www.linkedin.com/in/nipunamadula">
     <img src="https://img.shields.io/badge/-Nipuna_Madula-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:nipunamadula2001@gmail.com">
